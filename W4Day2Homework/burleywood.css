@@ -6,12 +6,13 @@
 }    
 
 h1{
-    font: italic bolder 48px arial;
+    font: italic 48px impact;
     font-stretch: expanded;
     text-align: center;
-    padding:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
     border-bottom: 6px dashed;
-    line-height:60%;
+    line-height:100%;
+    margin-top: 1px;
         
 }
 p{
@@ -25,6 +26,9 @@ ul{
 
 }
 li::first-letter{font: italic 26px arial}
+#wrap{
+        background-color: whitesmoke;
+}
 .copyright{
     text-align: center;
     font-size: 12px;
