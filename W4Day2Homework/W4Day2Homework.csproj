@@ -108,6 +108,7 @@
   <ItemGroup>
     <Content Include="darkblue.css" />
     <Content Include="index.html" />
+    <Content Include="lightblue.css" />
     <Content Include="sonnet18.html" />
     <Content Include="manysonnets.html" />
     <Content Include="scripts\ai.0.22.19-build00125.js" />

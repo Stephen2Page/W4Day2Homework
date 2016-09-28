@@ -1,0 +1,11 @@
+﻿body {
+}
+p{
+    font: 16px arial;
+}
+ul{
+    font: 16px arial;
+    list-style-type:none;
+    text-align:center;
+    list-style-position: inside;
+}
