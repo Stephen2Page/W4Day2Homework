@@ -2,15 +2,20 @@
     background-color: burlywood;
     font-family: arial;
     margin: 1% 20%;
-    padding: 2%;
-    border: 4px dashed;
-}
+    border: 6px dashed;
+}    
+
 h1{
     font: italic bolder 48px arial;
     font-stretch: expanded;
-    text-align:center;
-    border-bottom: 4px dashed;
+    text-align: center;
+    padding:0px 0px 0px 0px;
+    border-bottom: 6px dashed;
+    line-height:60%;
         
+}
+p{
+    padding: 1%;
 }
 ul{
     text-align: center;
@@ -20,3 +25,7 @@ ul{
 
 }
 li::first-letter{font: italic 26px arial}
+.copyright{
+    text-align: center;
+    font-size: 12px;
+}
